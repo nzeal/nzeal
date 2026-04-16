@@ -54,14 +54,6 @@
 
 ---
 
-### `~/activity`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenitinshukla&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution+graph"/>
-</div>
-
----
-
 <div align="center">
   <sub>Always learning · Always building</sub>
 </div>
